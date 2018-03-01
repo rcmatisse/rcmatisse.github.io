@@ -1,15 +1,13 @@
 
-	var timer = setInterval(refresh, 5000);
+	var timer = setInterval(refresh, 3000);
 
 	var motto = [
-	"Una criptomoneda bien bonita", 
-	"Le chauché proyecté",
-	"dejale caer to' el peso",
-	"Por la razón o la chaucha",
-	"Aquí no se cae el sistema",
-	"リサフランク420 / 現代のコンピュー",
-	"Johnny 100 Chauchas",
-	"Make Chaucha Great Again"
+	"Profesor de informática", 
+	"Actualmente en el IES Henri Matisse",
+	"Me interesa la tecnología",
+	"y sus aplicaciones en la educación",
+	"Realizo cursos online",
+	"Disponible para charlas",
 	];
 
 	function refresh () {
